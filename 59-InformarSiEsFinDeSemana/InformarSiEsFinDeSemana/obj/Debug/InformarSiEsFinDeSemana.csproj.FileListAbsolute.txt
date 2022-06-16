@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\bin\Debug\InformarSiEsFinDeSemana.exe
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\bin\Debug\InformarSiEsFinDeSemana.pdb
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.exe
+C:\Users\tauro\Desktop\InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\bin\Debug\InformarSiEsFinDeSemana.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\bin\Debug\InformarSiEsFinDeSemana.pdb
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.csproj.AssemblyReference.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.csproj.CoreCompileInputs.cache
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.exe
+F:\Carrera de Analista de Sistemas\Programacion Orientada a Objetos\Ejercicios\59-InformarSiEsFinDeSemana\InformarSiEsFinDeSemana\obj\Debug\InformarSiEsFinDeSemana.pdb
